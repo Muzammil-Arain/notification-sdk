@@ -1,0 +1,43 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Logs
+logs/
+*.log
+
+# Build directories
+dist/
+build/
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor folders
+.vscode/
+.idea/
+*.iml
+
+# Dependency directories
+.bower_components/
+
+# Environment files
+.env
+
+# Coverage directory used by testing tools
+coverage/
+
+# TypeScript build output
+*.tsbuildinfo
+
+# Miscellaneous
+*.tgz
